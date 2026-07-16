@@ -29,7 +29,16 @@ I am passionate about advancing **Artificial Intelligence**, **Computer Vision**
 <a href="https://instagram.com/@arnab__das_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@arnab__das_18" height="30" width="40" /></a>
 <a href="mailto:arnabdas97321@gmail.com"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" height="35" width="50" /></a>
 </p>
-
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AIArnabDas/AIArnabDas/output/github-contribution-grid-snake.svg" />
+  
+  <br/>
+</div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
+</div>
 <br/>
 <div align="center">
   <h2>Fun Fact 🎉</h2>
