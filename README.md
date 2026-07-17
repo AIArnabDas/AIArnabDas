@@ -25,7 +25,7 @@ I am passionate about advancing **Artificial Intelligence**, **Computer Vision**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/arnab__das_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arnab__das_18" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/@arnabdas1808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@arnabdas1808" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/@ai-arnabdas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@ai-arnabdas" height="30" width="40" /></a>
 <a href="https://instagram.com/@arnab__das_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@arnab__das_18" height="30" width="40" /></a>
 <a href="mailto:arnabdas97321@gmail.com"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" height="35" width="50" /></a>
 </p>
